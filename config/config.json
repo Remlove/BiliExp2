@@ -320,8 +320,8 @@
         // } 
         /*, { //下面注释掉的是第二个账号的参数例子，以此类推多个账号，单账号仅填写上面内容
         "cookieDatas": {
-            "SESSDATA": "0309c305%2C1636924660%2C6e96e%2A51",
-            "bili_jct": "fd4831111c0d0ef9c0a2d3eee88e38c6",
+            "SESSDATA": "587452eb%2C1636925312%2C05f01%2A51",
+            "bili_jct": "4a69a51b56b8ed8c1712fb66e59269c8",
             "DedeUserID": "13455146"
         },
         "show_name": "账号2",
