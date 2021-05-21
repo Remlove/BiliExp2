@@ -246,9 +246,9 @@
         "tasks": {}
     }/*, { //下面注释掉的是第二个账号的参数例子，以此类推多个账号，单账号仅填写上面内容
         "cookieDatas": {
-            "SESSDATA": "4a5f1c63%2C1785313721%2Cdf9fc*a1",
-            "bili_jct": "cf28ba45824d443646907a5c4da8cf1",
-            "DedeUserID": "914624742"
+            "SESSDATA": "d2c86324%2C1637125832%2C1ec0a%2A51",
+            "bili_jct": "4ba4d362bad2ce6f26243a9797efd72f",
+            "DedeUserID": "163781858"
         },
         "show_name": "账号2",
         "tasks": {                //上面default参数中投币任务和风纪委任务都是开启的，这里在第二个账号上关闭而不影响其他任务和其他账号
